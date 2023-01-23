@@ -2,6 +2,9 @@
 <h1 align="center">Hello there 👋🏿, I'm IryCode</h1>
 <h3 align="center">A Web Developer Wannabe</h3>
 
+<p>I'm really involved about coding since 1 year, coding give me the feeling to built something really usefull.
+I'm addicted now about improve my skills and hope to become one day a web developer</p>
+
 <p><img align="right" width=400
         src="https://www.gifcen.com/wp-content/uploads/2022/08/mario-gif-4.gif"
         alt="irycode" /></p>
