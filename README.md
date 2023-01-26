@@ -26,7 +26,7 @@ I'm now addicted about improve my skills and one day hope to become a web develo
 - ⚡ Fun fact **My name's not Iry**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Frameworks:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/></a> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
