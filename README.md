@@ -43,7 +43,7 @@ I'm now addicted about improve my skills and one day hope to become a web develo
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/></a> </p>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=irycode&show_icons=true&theme=tokyonight&locale=en&layout=default" alt="irycode" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=irycode&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="irycode" /></p>
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=irycode&show_icons=true&theme=tokyonight&locale=en" alt="irycode" /></p>
 
