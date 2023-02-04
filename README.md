@@ -44,7 +44,8 @@ I'm now addicted about improve my skills and one day hope to become a web develo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/></a> 
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="70" />
 </a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /> </a>
 </p>
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=irycode&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="irycode" /></p>
