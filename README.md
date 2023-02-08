@@ -4,23 +4,26 @@
 
 <p><img align="right" width=300
         src="https://www.gifcen.com/wp-content/uploads/2022/08/mario-gif-4.gif"
-        alt="irycode" /></p>
+        alt="irycode" />
+</p>
 
 <p>
-       
+ 
 I'm really involved about coding since 1 year, coding give me the feeling to build something really usefull.
 I'm now addicted about improve my skills and one day hope to become a web developer
 Really passionate about programming all of the projects on my github are inspired or the reproduction of website that i see in the web
 My dream is to build something that gave an impact even if this one is little.
 The most of things that i made are published in my Github. You can ask me HTML, CSS, JS topics i will doing my best to answer your question.
 
-        
+
 If you want to check my CV go at https://irycode.github.io/CV/
      
 
-- 📫 How to reach me **ryvernet@outlook.fr**
+- 📫 Email : **ryvernet@outlook.fr**
 
 </p>
+
+<hr>
 
 <h3 align="left">🧰 Languages and Frameworks:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -48,16 +51,15 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <p align="center"> 
 
 <img width="300" alt="Capture d’écran 2023-02-07 à 17 53 21" src="https://user-images.githubusercontent.com/86270481/217639234-8b2162cd-65f4-4db1-a216-8aa641439179.png">
-<img width="300" alt="Capture d’écran 2023-02-08 à 21 06 21" src="https://user-images.githubusercontent.com/86270481/217639572-844b9c3a-8b77-42b3-906e-fe0f86e2e61b.png">
-<img width="300" alt="Capture d’écran 2023-02-08 à 21 07 53" src="https://user-images.githubusercontent.com/86270481/217639902-bb0c3d3b-bdc0-4313-b323-c2d19d39df92.png">
+<img width="300" alt="Capture d’écran 2023-02-08 à 22 46 43" src="https://user-images.githubusercontent.com/86270481/217658651-dbf26e01-856d-4bf8-9676-3bd63ab4dd4a.png">
+
+<img width="300" alt="Capture d’écran 2023-01-15 à 13 44 00" src="https://user-images.githubusercontent.com/86270481/214530959-d6a99abf-4830-480a-a896-c6b2eab4fe01.png">
 </p>
 
 <p align="center">
         <img width="300" alt="Capture d’écran 2023-02-07 à 22 39 39" src="https://user-images.githubusercontent.com/86270481/217652249-afb9597b-d79a-41f6-964c-1e541718b30c.png">
         <img width="300" alt="Capture d’écran 2023-02-08 à 22 18 18" src="https://user-images.githubusercontent.com/86270481/217653133-5cc1ce9b-2ae9-449c-95a2-fed019a72aaf.png">
         <img width="300" alt="Capture d’écran 2023-02-08 à 22 20 52" src="https://user-images.githubusercontent.com/86270481/217653637-48f6fd0c-1e15-4722-b861-a3b05c92a0c6.png">
-
-
 </p>
 
 ### 📊 Stats
