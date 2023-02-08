@@ -54,6 +54,9 @@ If you want to check my CV go at https://irycode.github.io/CV/
 
 <p align="center">
         <img width="300" alt="Capture d’écran 2023-02-07 à 22 39 39" src="https://user-images.githubusercontent.com/86270481/217652249-afb9597b-d79a-41f6-964c-1e541718b30c.png">
+        <img width="300" alt="Capture d’écran 2023-02-08 à 22 18 18" src="https://user-images.githubusercontent.com/86270481/217653133-5cc1ce9b-2ae9-449c-95a2-fed019a72aaf.png">
+        <img width="300" alt="Capture d’écran 2023-02-08 à 22 20 52" src="https://user-images.githubusercontent.com/86270481/217653637-48f6fd0c-1e15-4722-b861-a3b05c92a0c6.png">
+
 
 </p>
 
