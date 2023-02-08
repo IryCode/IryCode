@@ -2,14 +2,14 @@
 <h1 align="center">Hello there 👋🏿, I'm IryCode</h1>
 <h2 align="center">A Web Developer Wannabe</h3>
 
-<p>I'm really involved about coding since 1 year, coding give me the feeling to build something really usefull.
-I'm now addicted about improve my skills and one day hope to become a web developer</p>
-
-<p><img align="right" width=350
+<p><img align="right" width=300
         src="https://www.gifcen.com/wp-content/uploads/2022/08/mario-gif-4.gif"
         alt="irycode" /></p>
 
 <p>
+       
+I'm really involved about coding since 1 year, coding give me the feeling to build something really usefull.
+I'm now addicted about improve my skills and one day hope to become a web developer
 Really passionate about programming all of the projects on my github are inspired or the reproduction of website that i see in the web
 My dream is to build something that gave an impact even if this one is little.
 The most of things that i made are published in my Github. You can ask me HTML, CSS, JS topics i will doing my best to answer your question.
@@ -43,7 +43,7 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /> </a>
 </p>
 
-<h2>My last Project</h2>
+<h2>👨🏿‍💻 Projects</h2>
 
 <p align="center"> 
 
