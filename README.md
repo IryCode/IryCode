@@ -26,7 +26,7 @@ I'm now addicted about improve my skills and one day hope to become a web develo
 - ⚡ Fun fact **My name's not Iry**
 
 
-<h3 align="left">🧰Languages and Frameworks:</h3>
+<h3 align="left">🧰 Languages and Frameworks:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/></a> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -46,6 +46,8 @@ I'm now addicted about improve my skills and one day hope to become a web develo
 </a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /> </a>
 </p>
+
+### 📊 Stats
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=irycode&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="irycode" /></p>
 
