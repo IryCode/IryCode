@@ -19,7 +19,14 @@ The most of things that i made are published in my Github. You can ask me HTML, 
 If you want to check my CV go at https://irycode.github.io/CV/
      
 
-- 📫 Email : **ryvernet@outlook.fr**
+📫 Email : **ryvernet@outlook.fr**
+ <p>
+ <a href="https://twitter.com/irycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irycode" height="70" width="80" /></a>
+<a href="https://instagram.com/irycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irycode" height="70" width="80" /></a>
+        <a href="https://discord.gg/irycode#7993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="irycode#7993" height="70" width="80" /></a>
+        <a href="https://github.com/irycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="irycode" height="70" width="80" /></a>
+  
+</p>
 
 </p>
 
@@ -62,20 +69,15 @@ If you want to check my CV go at https://irycode.github.io/CV/
         <img width="300" alt="Capture d’écran 2023-02-08 à 22 20 52" src="https://user-images.githubusercontent.com/86270481/217653637-48f6fd0c-1e15-4722-b861-a3b05c92a0c6.png">
 </p>
 
-### 📊 Stats
+
+<h2>📊 Stats</h2> 
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=irycode&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="irycode" /></p>
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=irycode&show_icons=true&theme=tokyonight&locale=en" alt="irycode" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
- <a href="https://twitter.com/irycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irycode" height="70" width="80" /></a>
-<a href="https://instagram.com/irycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irycode" height="70" width="80" /></a>
-        <a href="https://discord.gg/irycode#7993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="irycode#7993" height="70" width="80" /></a>
-        <a href="https://github.com/irycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="irycode" height="70" width="80" /></a>
-  
-</p>
+
+
         
 
 
