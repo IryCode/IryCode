@@ -2,7 +2,7 @@
 <h1 align="center">Hello there 👋🏿, I'm IryCode</h1>
 <h2 align="center">A Web Developer Wannabe</h3>
 
-<p><img align="right" width=300
+<p><img align="right" width=350
         src="https://www.gifcen.com/wp-content/uploads/2022/08/mario-gif-4.gif"
         alt="irycode" />
 </p>
