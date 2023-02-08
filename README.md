@@ -9,22 +9,18 @@ I'm now addicted about improve my skills and one day hope to become a web develo
         src="https://www.gifcen.com/wp-content/uploads/2022/08/mario-gif-4.gif"
         alt="irycode" /></p>
 
-- 🔭 I’m currently working on **improve my skills**
+<p>
+Really passionate about programming all of the projects on my github are inspired or the reproduction of website that i see in the web
+My dream is to build something that gave an impact even if this one is little.
+The most of things that i made are published in my Github. You can ask me HTML, CSS, JS topics i will doing my best to answer your question.
 
-- 🌱 I’m currently learning **The complete 2023 Web Development Bootcamp**
-
-- 👯 I’m looking to collaborate on **everything i can**
-
-- 👨‍💻 All of my projects are available at [https://irycode.github.io/CV#project](https://irycode.github.io/CV#project)
-
-- 💬 Ask me about **HTML, CSS, JS, BOOSTRAP, Python**
+        
+If you want to check my CV go at https://irycode.github.io/CV/
+     
 
 - 📫 How to reach me **ryvernet@outlook.fr**
 
-- 📄 Know about my experiences [https://irycode.github.io/CV](https://irycode.github.io/CV)
-
-- ⚡ Fun fact **My name's not Iry**
-
+</p>
 
 <h3 align="left">🧰 Languages and Frameworks:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -47,6 +43,20 @@ I'm now addicted about improve my skills and one day hope to become a web develo
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /> </a>
 </p>
 
+<h2>My last Project</h2>
+
+<p align="center"> 
+
+<img width="300" alt="Capture d’écran 2023-02-07 à 17 53 21" src="https://user-images.githubusercontent.com/86270481/217639234-8b2162cd-65f4-4db1-a216-8aa641439179.png">
+<img width="300" alt="Capture d’écran 2023-02-08 à 21 06 21" src="https://user-images.githubusercontent.com/86270481/217639572-844b9c3a-8b77-42b3-906e-fe0f86e2e61b.png">
+<img width="300" alt="Capture d’écran 2023-02-08 à 21 07 53" src="https://user-images.githubusercontent.com/86270481/217639902-bb0c3d3b-bdc0-4313-b323-c2d19d39df92.png">
+</p>
+
+<p align="center">
+        <img width="300" alt="Capture d’écran 2023-02-07 à 22 39 39" src="https://user-images.githubusercontent.com/86270481/217652249-afb9597b-d79a-41f6-964c-1e541718b30c.png">
+
+</p>
+
 ### 📊 Stats
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=irycode&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="irycode" /></p>
@@ -60,17 +70,6 @@ I'm now addicted about improve my skills and one day hope to become a web develo
         <a href="https://discord.gg/irycode#7993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="irycode#7993" height="70" width="80" /></a>
         <a href="https://github.com/irycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="irycode" height="70" width="80" /></a>
   
-</p>
-
-<h2>My last Project</h2>
-
-<p align="center"> 
-
-<img width="300" alt="Capture d’écran 2023-02-07 à 17 53 21" src="https://user-images.githubusercontent.com/86270481/217639234-8b2162cd-65f4-4db1-a216-8aa641439179.png">
-<img width="300" alt="Capture d’écran 2023-02-08 à 21 06 21" src="https://user-images.githubusercontent.com/86270481/217639572-844b9c3a-8b77-42b3-906e-fe0f86e2e61b.png">
-<img width="300" alt="Capture d’écran 2023-02-08 à 21 07 53" src="https://user-images.githubusercontent.com/86270481/217639902-bb0c3d3b-bdc0-4313-b323-c2d19d39df92.png">
-
-
 </p>
         
 
