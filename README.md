@@ -51,8 +51,6 @@ I'm now addicted about improve my skills and one day hope to become a web develo
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=irycode&show_icons=true&theme=tokyonight&locale=en" alt="irycode" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=irycode&theme=tokyonight" alt="irycode" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
  <a href="https://twitter.com/irycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irycode" height="70" width="80" /></a>
