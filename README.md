@@ -1,6 +1,7 @@
 ![mario-coding](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 <h1 align="center">Hello there 👋🏿, I'm IryCode</h1>
-<h2 align="center">A Web Developer Wannabe</h3>
+
+##  ```A Web Developer Wannabe```
 
 <p><img align="right" width=350
         src="https://www.gifcen.com/wp-content/uploads/2022/08/mario-gif-4.gif"
